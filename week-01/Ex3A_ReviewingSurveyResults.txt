@@ -1,0 +1,46 @@
+	
+1. What conclusion can you reach about the responses to this question?
+	1.) Most people prepare their work space before class and prepare to take notes.
+	2.) The amount of people who have a second monitor is about half, it could be due to using the loaner laptop and not having it set up, or not preferring to use one.
+	3.) Most people use an external mouse AND keyboard, this not surprising because they're generally more common, and are necessary for desktops.
+	4.) Everyone except one person uses a writing utensil of some kind to take notes, it's likely this is highly influenced by YUU's encouragement of writing notes by hand.
+	5.) High variance in the types of questions, from having no questions, but there is important data in questions and what worries people.
+	
+2. Is the default summary or visualization helpful? How could it be improved?
+	1.) The summary that shows the most popular words is very helpful, but avoiding open ended questions if possible would make the visualization much easier
+	2.) The visualization is helpful as the results are equal to the number of participants, but doesn't display extra info input from 'other'.
+	3.) Similar to question 2, but more helpful as it does not have an 'other' option
+		4.) Similar to question 2
+	5.) The summary is not very helpful due the high variety of questions.
+
+3. For questions with an “Other” option, where can you find the actual text of those
+	responses? Do you notice anything that might be tricky about analyzing these?
+	1.) n/a
+	2.) You have to click 'More Details', and I feel like this is a yes or no question, an 'other' option doesn't make sense as all responses not 'yes' is 'no'.
+	3.) Thankfully no one answered 'other' since there is now a no option, but similar to question 2, it doesn't seem necessary
+	4.) The 'other' option here is useful, however because only one person took notes with another option, it's possible to have been predicted and added as a normal option.
+	5.) n/a
+
+4. For questions calling for a written response, what challenges do you notice about
+	finding trends or patterns in the answers provided?
+		All questions that require a written response make it so that you have to read each individual response to get a proper idea of the trend of answers. Answer length writing styles, and having different interpretations of the question make it much more difficult.
+
+5. Now that you an see the responses, how might you recommend rephrasing this question or the response
+	options in a future survey?
+	1.) I think being more specific with answer length may help keeping answers more uniform and easier to analyze.
+	2.) The 'other' response can just be 'no'
+	3.) The 'other response can just be removed 
+	4.) There was only really one 'other' response, which probably can be another option rather than 'other'.
+	5.) Due to the nature of the question, I'm not actually sure how I'd improve it, I think students here should be open to asking and questions they have.
+	
+6. Is there anything that surprised you about the survey responses?
+	I do think that each survey response was to be expected, especially when knowing student expectations at YUU.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+	After reading the questions, I'm also curious about the schedule, and what past students struggled with the most.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach to teaching this class?
+	The questions are very helpful in what students are confused with, so answering those questions could help with setting expectations for class.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+	Knowing that we were going to use the survey as study material, I think it is very nice that the survey is anonymous, as is lets the students feel more comfortable in answering.
