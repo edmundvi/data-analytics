@@ -1,0 +1,34 @@
+1. Start by reviewing the data.gov home page. What is this?
+
+	Data.gov seems to be a gov't source of various datasets.
+
+2. Go to Most Viewed Datasets. How many datasets are listed?
+
+	402,387 Datasets
+
+3. Find the Topic Category for Human Health. Review the range of data sources available for this topic. Why do you think these were tagged with the Human Health category?
+	
+	There are 50 datasets for this topic, and all topics concern the public health of humans, including climate, food, and air quality.
+	
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you navigate to additional datasets from the USDA?
+
+	You can click the image of the USDA and it will filter to show other datasets from the USDA
+
+5. Go back to the data.gov home page. This time, click on Datasets by Organization.
+
+6. Try searching for your city, county, and state. What organizations are returned?
+
+	Daly City and San Mateo County don't have any results, but California returns two organizations, "OpenTopography" and "State of California".
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food composition. Notice that the top three results are all datasets concerning nutrition information. Try searching the USDA page for nutrition. How does that affect your results?
+
+	Searching just nutrition increased the datasets from 17 to 229.
+
+8. Go back to the results for food composition, and click on FoodData Central. Review the catalog page for this data source, then click on the button for Visit Page. Take some time to explore the FoodData Central website.
+a) Try searching for butter, or any of your favorite foods. What kind of results do you get? What happens when you click on a result?
+
+	After searching for butter, you get any results that include the keyword 'butter', including butter, salted and unsalted, and peanut butter. Clicking on the result gives the ingredients of each individual sample, and different info about each one including average amounts.
+	
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What kind of data can you find on this page? How big are these files? Where can you find more information on the data types available?
+	
+	You can find JSON and CSV files with a high variety of data types including supporting data and foundation foods, the sizes of these files also vary highly ranging from a small amount of KB to quite a few GB. 
