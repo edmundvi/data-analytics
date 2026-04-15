@@ -1,0 +1,3 @@
+/*
+This purpose of the sakila database is probably to store information of a film store.alter
+*/
