@@ -30,3 +30,4 @@ SELECT Continent, Region, FORMAT(MAX(Population), 0), MIN(Population), FORMAT(AV
     GROUP BY Continent, Region
 	-- HAVING AVG(Population) >= 10465594.4444
     ORDER BY Continent, MAX(Population);
+
