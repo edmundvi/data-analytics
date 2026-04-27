@@ -90,7 +90,7 @@ SELECT
 SELECT 
 	ProductID
     , ProductName
-    , UnitPrice * UnitsInStock AS InventoryValue
+    , ROUND((UnitPrice * UnitsInStock), 2) AS InventoryValue
     FROM products
     WHERE UnitsInStock > 0
     ORDER BY 
