@@ -16,5 +16,11 @@ print (dollars + cents)
 
 cents = cents + .25
 
-print (dollars + cents)
+print (dollars + cents) # 3.75
 
+# Print used the updated value of cents(.75) to add with dollars
+
+d_str = '3 dollars'
+c_str = '50 cents'
+
+print(d_str, c_str) # print(d_str + " " + c_str) also works

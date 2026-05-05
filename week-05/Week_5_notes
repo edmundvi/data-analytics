@@ -6,7 +6,7 @@ c = "Section"
 d = 10
 
 print("first a/b output:", a, b)
-print("second a/b output:"a + " " + b) # plus sign as a concatenation
+print("second a/b output:", a + " " + b) #plus sign as a concatenation
 print("third a/b output:",a, "\n", b) #\n is a line break
 
 #another method for line breaks
@@ -16,3 +16,4 @@ print(b)
 
 # str() turns the integer 'd' to a string, try without it
 print(a + " " + b + " " + c + " " + str(d))
+
