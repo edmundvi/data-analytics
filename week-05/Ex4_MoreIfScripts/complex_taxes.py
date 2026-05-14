@@ -3,7 +3,7 @@ pay_rate = float(input("What is your pay rate? "))
 hours_worked = float(input("How many hours did you work for the week? "))
 filing_status = input("What is your filing status?: ")
 
-
+# Calculate pay
 if hours_worked > 40:
     overtime_hours = hours_worked - 40
     total_pay = (40 * pay_rate) + (overtime_hours * pay_rate * 1.5)
@@ -12,6 +12,7 @@ else:
 
 annual_income = total_pay * 52
 
+# Determine what to do depending on filing status
 if filing_status == "single":
     if annual_income < 12000:
         tax_rate = 0.05
